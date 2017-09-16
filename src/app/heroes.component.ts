@@ -70,7 +70,7 @@ import { OnInit } from '@angular/core';
   `],
   providers: [HeroService]
 })
-export class AppComponent implements OnInit  {
+export class HeroesComponent implements OnInit  {
 
   ngOnInit() : void {
     this.getHeroes();
