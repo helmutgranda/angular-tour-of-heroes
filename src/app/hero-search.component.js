@@ -56,8 +56,8 @@ HeroSearchComponent = __decorate([
         styleUrls: ['./hero-search.component.css'],
         providers: [hero_search_service_1.HeroSearchService]
     }),
-    __metadata("design:paramtypes", [hero_search_service_1.HeroSearchService,
-        router_1.Router])
+    __metadata("design:paramtypes", [typeof (_a = typeof hero_search_service_1.HeroSearchService !== "undefined" && hero_search_service_1.HeroSearchService) === "function" && _a || Object, router_1.Router])
 ], HeroSearchComponent);
 exports.HeroSearchComponent = HeroSearchComponent;
+var _a;
 //# sourceMappingURL=hero-search.component.js.map
